@@ -1,0 +1,7 @@
+Variable Scope: There are two types of scope. Global and Local scope. A variable defined outside of the function is part of the Global Scope, meaning that it is everwhere in the code, whereas a variable defined within the function is Local Scope and can only be availible within that same function.
+
+Strict Mode: JavaScript Scrict Mode basically means that when it is used, anytime a variable becomes declared without using "var" it will become an error. This is to forced to get into the happen of always typing "var".
+
+Side Effects and pure functions: Side effects are any is any effect other than that return value that you're looking for. A Pure Function is a function that guides the input value into the output value.
+
+Hoisting: Variable Hoisting makes it possible to call functions before they are declared. Otherwise the code could contain bugs and errors etc. This way the the code is interpreted, it is without flaws and glitches.
